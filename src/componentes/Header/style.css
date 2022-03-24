@@ -1,0 +1,12 @@
+.navbar um {
+    background-color: black;
+    font-family:Arial, Helvetica, sans-serif ;
+    font-size: large;
+    margin-bottom: 20px;
+    height: 60px;
+    padding-top: 30px;
+    }
+
+.bg-dark {
+    background-color: #094199!important;
+}
